@@ -1,0 +1,2 @@
+# LatestMt4Finder4J
+Windowsマシンにインストールされた最も新しいMetaTrader4を検索する小人
